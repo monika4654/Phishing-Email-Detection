@@ -1,0 +1,9 @@
+text,label
+"Congratulations! You won $1000. Click here now.",phishing
+"Your account has been suspended. Verify immediately.",phishing
+"Meeting scheduled for tomorrow at 10 AM.",safe
+"Please find the attached project report.",safe
+"Update your bank details to avoid account closure.",phishing
+"Lunch meeting at 1 PM today.",safe
+"Claim your free gift card now!",phishing
+"Project submission deadline extended.",safe
